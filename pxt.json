@@ -1,0 +1,27 @@
+{
+    "name": "raiderstar10",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "bluetooth": "*",
+        "pxt-28byj-48-stepper": "github:tinkertanker/pxt-stepper-motor#v0.0.5",
+        "ContinuousServo": "github:tinkertanker/pxt-continuous-servo#v0.0.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
